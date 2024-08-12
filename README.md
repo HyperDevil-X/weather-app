@@ -1,5 +1,5 @@
 <h1 align ="center">Weather App</h1>
-<h2><a href="https://hyperdevil-x.github.io/Business/" target="_blank">Link</a></h2>
+<h2><a href="https://hyperdevil-x.github.io/weather-app/" target="_blank">App Link</a></h2>
 <img src="Cover.PNG">
  <h3  align ="center"><b>Weather App using HTML5,CSS3,JAVASCRIPT</b></h3>
  <br>
